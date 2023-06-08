@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Hi there! :wave: I'm John Doe :smiley:
+# Hi there! :wave: I'm Savata Bachhav :smiley:
 
 Welcome to my GitHub profile! :tada: I'm passionate about coding and problem solving. I love to explore new technologies and share my knowledge with others.
 
