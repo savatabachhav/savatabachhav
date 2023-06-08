@@ -31,7 +31,7 @@ Here are some of the technologies and tools I work with:
 - :link: LinkedIn: [Savata B.](https://www.linkedin.com/in/savatabachhav)
 - :link: FB: [Savata B.](https://www.facebook.com/savata.bachhav)
 - 💬 WhatsApp: [Savata B.](https://wa.link/dxv2mo)
-- 
+
 ![Scan QR to Connect on WhatsApp](https://raw.githubusercontent.com/savatabachhav/savatabachhav/a8c27163ff3a23f6324476f5db9e499e34c6bf7c/wa.link_dxv2mo.png)
 
 
