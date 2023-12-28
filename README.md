@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Hi there! :wave: I'm Savata Bachhav :smiley:
+# I'm Savata Bachhav :smiley:
 
 Welcome to my GitHub profile! :tada: I'm passionate about coding and problem solving. I love to explore new technologies and share my knowledge with others.
 
@@ -8,16 +8,22 @@ Welcome to my GitHub profile! :tada: I'm passionate about coding and problem sol
 
 Here are some of the technologies and tools I work with:
 
-- :rocket: Programming Languages: PHP, JavaScript, Python
-- :wrench: Frameworks and Libraries: React, Angular, Node.js, JQuery, Next
-- :bar_chart: Databases: MySQL, PostgreSQL
-- :octocat: Version Control: Git, GitHub
-- :cloud: Cloud Platforms: AWS, Azure, GCP
-- :art: Design Tools: Figma, GIMP
+ :rocket: Programming Languages: PHP, JavaScript, Python
+ 
+ :wrench: Frameworks and Libraries: React, Angular, Node.js, JQuery, Next
+ 
+ :bar_chart: Databases: MySQL, PostgreSQL
+ 
+ :octocat: Version Control: Git, GitHub
+ 
+ :cloud: Cloud Platforms: AWS, Azure, GCP
+ 
+ :art: Design Tools: Figma, GIMP
+ 
 
 ## :mortar_board: Education
 
-- :school: Bachelor of Science in Computer Science, CMCS College, Nashik MH-India (Pune University)
+ :school: Bachelor of Science in Computer Science, CMCS College, Nashik MH-India (Pune University)
 
 <!--## :hammer_and_wrench: Projects
 
@@ -26,11 +32,16 @@ Here are some of the technologies and tools I work with:
 -->
 ## :mega: Let's Connect
 
-- :mailbox: Email: savatabachhav112@gmail.com
-- :bird: Twitter: [@BSavata](https://twitter.com/bsavata)
-- :link: LinkedIn: [Savata B.](https://www.linkedin.com/in/savatabachhav)
-- :link: FB: [Savata B.](https://www.facebook.com/savata.bachhav)
-- 💬 WhatsApp: [Savata B.](https://wa.link/dxv2mo)
+ :mailbox: Email: savatabachhav112@gmail.com
+ 
+ :bird: Twitter: [@BSavata](https://twitter.com/bsavata)
+ 
+ :link: LinkedIn: [Savata B.](https://www.linkedin.com/in/savatabachhav)
+ 
+ :link: FB: [Savata B.](https://www.facebook.com/savata.bachhav)
+ 
+ 💬 WhatsApp: [Savata B.](https://wa.link/dxv2mo)
+ 
 
 ![Scan QR to Connect on WhatsApp](https://raw.githubusercontent.com/savatabachhav/savatabachhav/a8c27163ff3a23f6324476f5db9e499e34c6bf7c/wa.link_dxv2mo.png)
 
