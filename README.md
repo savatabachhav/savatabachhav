@@ -2,7 +2,7 @@
 
 # I'm Savata Bachhav :smiley:
 
-Welcome to my GitHub profile! :tada: I'm passionate about coding and problem solving. I love to explore new technologies and share my knowledge with others.
+Welcome to my GitHub profile! :tada: I'm passionate about coding, exploring new technologies, and sharing knowledge.
 
 ## :computer: Technologies and Tools
 
