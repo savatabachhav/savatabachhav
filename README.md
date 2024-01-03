@@ -34,12 +34,6 @@ Here are some of the technologies and tools I work with:
 
  :mailbox: Email: savatabachhav112@gmail.com
  
- :bird: Twitter: [@BSavata](https://twitter.com/bsavata)
- 
- :link: LinkedIn: [Savata B.](https://www.linkedin.com/in/savatabachhav)
- 
- :link: FB: [Savata B.](https://www.facebook.com/savata.bachhav)
- 
  💬 WhatsApp: [Savata B.](https://wa.link/dxv2mo)
  
 
