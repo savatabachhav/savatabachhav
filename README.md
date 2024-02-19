@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-# I'm Savata Bachhav :smiley:
+# I'm Savata Bachhav <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 Welcome to my GitHub profile! :tada: I'm passionate about coding, exploring new technologies, and sharing knowledge.
 
-## :computer: Technologies and Tools
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Technologies and Tools
 
 Here are some of the technologies and tools I work with:
 
@@ -23,7 +23,7 @@ Here are some of the technologies and tools I work with:
 
 ## :mortar_board: Education
 
- :school: Bachelor of Science in Computer Science, CMCS College, Nashik MH-India (Pune University)
+ <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> Bachelor of Science in Computer Science, CMCS College, Nashik MH-India (Pune University)
 
 <!--## :hammer_and_wrench: Projects
 
@@ -32,8 +32,18 @@ Here are some of the technologies and tools I work with:
 -->
 ## :mega: Let's Connect
 
- :mailbox: Email: savatabachhav112@gmail.com
- 
+  <a href="mailto:savatabachhav112@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/savatabachhav/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://stackoverflow.com/users/9933663/devsavata" target="_blank">
+    <img alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
+  
  💬 WhatsApp: [Savata B.](https://wa.link/dxv2mo)
  
 
