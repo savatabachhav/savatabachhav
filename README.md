@@ -23,7 +23,7 @@ Here are some of the technologies and tools I work with:
 
 ## :mortar_board: Education
 
- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> Bachelor of Science in Computer Science, CMCS College, Nashik MH-India (Pune University)
+ Bachelor of Science in Computer Science, CMCS College, Nashik MH-India (Pune University)
 
 <!--## :hammer_and_wrench: Projects
 
@@ -56,7 +56,7 @@ Here's a fun fact about me: I :heart: to work in Farm :tractor::farmer::muscle:
 
 ## :coffee: Let's Collaborate
 
-I'm always excited to collaborate on interesting projects. If you have any ideas or want to discuss potential collaborations, feel free to reach out to me. Let's build something amazing together! :rocket:
+I'm always excited to collaborate on interesting projects. If you have any ideas or want to discuss potential collaborations, please contact me. Let's build something amazing together! :rocket:
 
 
 <!--
